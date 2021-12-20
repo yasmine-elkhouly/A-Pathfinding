@@ -69,7 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-# A* PATHFINDING VISUALIZATION ALGORITHM WHICH RANDOMIZES 20% OBSTACLES. 
+
 
 ![git2](https://user-images.githubusercontent.com/85246232/146664046-951e6ae1-290c-4df8-9b2a-e2b5a3d9d24b.PNG)
 ![gut1](https://user-images.githubusercontent.com/85246232/146664047-c85a1983-7b37-4d1e-89c2-3d2e91697099.PNG)
